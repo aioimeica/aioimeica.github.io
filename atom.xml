@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aioimeica.github.io/"/>
-  <updated>2016-06-24T04:18:02.798Z</updated>
+  <updated>2016-06-24T08:00:04.730Z</updated>
   <id>http://aioimeica.github.io/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客存在的意义</title>
+    <link href="http://aioimeica.github.io/2016/06/24/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://aioimeica.github.io/2016/06/24/我为什么要写博客/</id>
+    <published>2016-06-24T06:21:36.000Z</published>
+    <updated>2016-06-24T08:00:04.730Z</updated>
+    
+    <content type="html">&lt;p&gt;三思而后行：我为什么要写博客？该用什么来搭建博客？以后的博文以记录技术方面的东西还是记录自己的某些感悟而生存下去？&lt;/p&gt;
+&lt;h3 id=&quot;我为什么要写博客？&quot;&gt;&lt;a href=&quot;#我为什么要写博客？&quot; class=&quot;headerlink&quot; title=&quot;我为什么要写博客？&quot;&gt;&lt;/a&gt;我为什么要写博客？&lt;/h3&gt;&lt;p&gt;最近看了许多博文，倒也激起了自己想搭建博客的心，我承认，这是一种跟风的行为。但是对于一个高考语文才70分的我，想写出文采飘逸的博文岂不是比登天还难？没错，我相信文采是练出来的，于是我坚持建立博客。&lt;/p&gt;
+&lt;h3 id=&quot;该用什么来搭建博客？&quot;&gt;&lt;a href=&quot;#该用什么来搭建博客？&quot; class=&quot;headerlink&quot; title=&quot;该用什么来搭建博客？&quot;&gt;&lt;/a&gt;该用什么来搭建博客？&lt;/h3&gt;&lt;p&gt;当我在QQ空间说自己想建博客的时候，他们都以为我会开什么新浪博客·网易博客之类的，但是，我想用自定义度高且轻量级的博客系统。&lt;br&gt;于是，我得知了WordPress，z-blog,虽然后台编辑器功能特别的强大，但是因为某些原因，我更喜欢用markdown，所以直接pass掉WordPress。我不想搞得像z-blog那样华丽，所以就找静态博客做得好的。于是就找到了hexo，搭建完成后，写了几篇测试文章，看到效果后我就在心里告诉自己，这就是我想要的效果，就像是找到了属于自己的家，似乎就是这种”归宿感”让我有了折腾hexo的动力，然后就折腾主题，评论系统，站内搜索，访问量统计…&lt;/p&gt;
+&lt;h3 id=&quot;以后的博文以记录技术方面的东西还是记录自己的某些感悟而生存下去？&quot;&gt;&lt;a href=&quot;#以后的博文以记录技术方面的东西还是记录自己的某些感悟而生存下去？&quot; class=&quot;headerlink&quot; title=&quot;以后的博文以记录技术方面的东西还是记录自己的某些感悟而生存下去？&quot;&gt;&lt;/a&gt;以后的博文以记录技术方面的东西还是记录自己的某些感悟而生存下去？&lt;/h3&gt;&lt;h5 id=&quot;技术博客存在的意义&quot;&gt;&lt;a href=&quot;#技术博客存在的意义&quot; class=&quot;headerlink&quot; title=&quot;技术博客存在的意义&quot;&gt;&lt;/a&gt;技术博客存在的意义&lt;/h5&gt;&lt;p&gt;在我有限的记忆里，从小学到现在，老师交个我们的学习方式都是”听课——&amp;gt;做笔记——&amp;gt;做练习”,整个过程类似于web1.0：我是一个客户端，从服务器(讲师或者书籍)那”获取信息”，而基本不用产出什么的，整个学习的过程像蜗牛一样慢。对于现在，一个学期就学四五门重要的课，至于学得如何&lt;br&gt;，则要等到期末考试，才能根据答题情况，==粗糙==的知道自己对知识掌握程度。然而此时考试已经结束，所以懒得再去翻看半年前开始学习的内容了，知识体系上的”瑕疵”就永远的留在那里。&lt;br&gt;在其他地方写过技术类教程的朋友都知道，通过写教程这种”产出”的方式，我可以很快的了解自己对一些知识是否真的理解。这样可以让学习周期大大压缩。比如一个周末的时间，就可以对某个库浏览一遍，随之写一篇博文。自己了解的如何，学的如何，立即就可以知道。如果有不明白的地方，你也不能偷懒，必须当时就去查阅资料，否则就无法完成自己的文章。这个时候去查阅资料，心里有一个很明确的目标，所以效率很高。&lt;/p&gt;
+&lt;h5 id=&quot;思想罪本身就是死亡&quot;&gt;&lt;a href=&quot;#思想罪本身就是死亡&quot; class=&quot;headerlink&quot; title=&quot;思想罪本身就是死亡&quot;&gt;&lt;/a&gt;思想罪本身就是死亡&lt;/h5&gt;&lt;p&gt;所有技术类的博客，十年后，五年后，都会失去它大部分的价值。这样的内容，写在博客上，只会渐渐地被人遗忘，，最后没落于网络的某一个不为人知的角落，期待着那永远不可能再发生的邂逅。如果只有技术内容，那是十分不应该的，如果那样，我们看不出博主的人格，看不出他的信仰，看不出他活生生的人的形象——&amp;gt;那他和一个可以在网络上任意抓取来的文字有什么不同呢？&lt;br&gt;博客可以用来记录一个人的思想，伟大的思想是不会过时的；即便对于自己来说，自己曾经的思想也是不会过时的存在。其实很多人应该都有过这样的感觉，就是看到自己曾经写过的某些话，你自己就会觉得当时的自己naive。然而，你如果没有碰巧看到过去写过的东西，你就不会记得自己曾经也naive过，你不会提醒自己不要再像过去那样naive。博客所能做的更像是记录博主思想上的成长。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;三思而后行：我为什么要写博客？该用什么来搭建博客？以后的博文以记录技术方面的东西还是记录自己的某些感悟而生存下去？&lt;/p&gt;
+&lt;h3 id=&quot;我为什么要写博客？&quot;&gt;&lt;a href=&quot;#我为什么要写博客？&quot; class=&quot;headerlink&quot; title=&quot;我为什么要写博客？
+    
+    </summary>
+    
+      <category term="life" scheme="http://aioimeica.github.io/categories/life/"/>
+    
+    
+      <category term="blog" scheme="http://aioimeica.github.io/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
